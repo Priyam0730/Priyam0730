@@ -2,6 +2,7 @@
 🔭 I’m currently working on projects involving data science applications and big data analysis.<br>👯 I’m looking to collaborate on machine learning and predictive analytics projects, especially in areas like fraud detection, recommendation systems, and natural language processing.<br>🤝 I’m looking for help withonnecting with professionals in the data science and big data industry to gain insights and career advice.<br>🌱 I’m currently learning ig data tools and frameworks like Hadoop, Apache Spark, and cloud platforms for scalable data processing.<br>💬 Ask me about machine learning fundamentals, including data preprocessing, model selection, and evaluation metrics.<br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubey_priyam_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyam-priyadarshi) 
 
